@@ -1,6 +1,6 @@
 #include<iostream>
 #include<map>
-#include<bits/stdc++.h>
+#include<algorithm>
 using namespace std;
  
 int main(){
